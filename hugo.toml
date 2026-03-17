@@ -1,0 +1,58 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Charlotte Clare-Hunt'
+theme = 'PaperMod'
+[author]
+name = "Charlotte Clare-Hunt"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+
+  [markup.goldmark.renderer]
+    unsafe = true
+
+
+[params]
+  author = "Charlotte Clare-Hunt"
+  math = true
+
+  # Social icons
+  [[params.social]]
+    name = "Email"
+    url = "mailto:charlotte.clare-hunt@maths.ox.ac.uk"
+
+  [[params.social]]
+    name = "GitHub"
+    url = "https://github.com/charlotteclarehunt"
+
+  [[params.social]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/charlotte-c-a29109184/"
+
+  [[params.social]]
+    name = "ORCID"
+    url = "https://orcid.org/0009-0006-9761-3365"
+
+  [params.profileMode]
+  enabled = false
+  title = "Charlotte Clare-Hunt"
+  subtitle = "DPhil student in Mathematics, University of Oxford"
+  imageUrl = "profile.jpg"
+  imageWidth = 180
+  imageHeight = 180
+  imageTitle = "Charlotte Clare-Hunt"
+
+[[menu.main]]
+  name = "CV"
+  url = "/cv.pdf"
+  weight = 4
+
+
+
+  

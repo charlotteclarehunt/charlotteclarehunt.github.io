@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Charlotte Clare-Hunt</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Charlotte Clare-Hunt</description>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Mar 2026 10:09:37 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 01 Mar 2026 10:09:37 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;my-first-post&#34;&gt;My First Post&lt;/h1&gt;
+&lt;p&gt;This is **bold test **. This is &lt;em&gt;italics&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2nd-level&#34;&gt;2nd level&lt;/h2&gt;
+&lt;h3 id=&#34;3rd-level&#34;&gt;3rd level&lt;/h3&gt;</description>
+    </item>
+  </channel>
+</rss>
