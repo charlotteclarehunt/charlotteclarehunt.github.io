@@ -4,7 +4,6 @@ menu:
   main:
     weight: 1
 date: 2026-03-07T21:10:00Z
-draft: true
 math: true
 ---
 <style>

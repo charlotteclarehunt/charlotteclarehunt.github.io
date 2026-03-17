@@ -1,7 +1,6 @@
 ---
 title: "Home"
 date: 2026-03-07T21:00:20Z
-draft: true
 math: true
 ---
 
