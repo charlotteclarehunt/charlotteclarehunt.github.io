@@ -28,6 +28,7 @@ math: true
 ### Talks
 
 - **tbd**, Warwick Junior Number Theory Seminar — June 2026  
+- **Vanishing theorems for Betti and de Rham cohomology**, LSGNT Study Group — April 2026 
 - **Eigenvarieties and \(p\)-adic rigidity for \(\mathrm{GSp}_4\)**, London Junior Number Theory Seminar — March 2026  
 - **Modular analogs of character formulas and minimal lifts of modular forms**, Oxford Study Group — February 2026  
 - **Automorphic Sheaves**, Oxford Study Group — November 2025  
@@ -37,6 +38,7 @@ math: true
 ### Seminars & Study Groups
 
 - Oxford Junior Number Theory Seminar Organiser — 2025–26  
+- Higher Coleman Theory Study Group — February 2026 
 - Preprints Study Group — January 2026  
 - Modularity of Abelian Surfaces Study Group — October 2025  
 - \(p\)-adic Automorphic Forms — January 2025  
@@ -46,6 +48,8 @@ math: true
 
 ### Conferences
 
+- Classical and \(p\)-adic aspects of the Kudla program, CIRM — June 2026
+- GWNT, Oxford — April 2026  
 - Around the Langlands Programme (Weeks 1 and 3), CIRM — January/February 2026  
 - CLAY Conference, Oxford — September 2025  
 - Women in Number Theory and Geometry (WINGS) — April 2025  
